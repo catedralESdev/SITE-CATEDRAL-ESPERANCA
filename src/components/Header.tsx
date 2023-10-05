@@ -4,7 +4,7 @@ export function Header() {
   return (
     <div className="p-5 bg-blue-500 flex justify-center">
       <Link href="/">
-        <p className="font-bold text-white">Catedral de Sintra</p>
+        <p className="font-bold text-white">Catedral de Sintra test</p>
       </Link>
     </div>
   )
